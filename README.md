@@ -6,7 +6,7 @@ The network will trained with data in the `training_dataset.csv` file, users int
 File structure of training dataset
 
 | First Hallmark | Second Hallmark | Element Type |
-| :---         |     :---:      |          ---: |
+| :---:         |     :---:      |          :---: |
 | 2.1   | 5.11     | 1    |
 | 3.1     | 4.91       | 1      |
 | 9.2     | 7.61       | 0      |
